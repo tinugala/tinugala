@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tinugala
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Full Stack Development
-- 💞️ I’m looking to collaborate on fang
+- 👀 Software Developer Engineer 
+- 🌱 I’m currently learning AI,ML.
+- 💞️ I’m looking to collaborate with All Coders in World 
 - 📫 How to reach me tinugala7.tg@gmail.com
 
 <!---
